@@ -1,0 +1,52 @@
+
+Buscaminas Lite (by Alexis Hernandez)
+
+Historial de versiones:
+
+v.1.0.0:	27/04/2012
+-Se genero el juego con los requerimientos minimos
+-Ya es jugable
+
+v.1.0.1:	28/04/2012
+-Se optimiza el uso de memoria
+-Se añadieron colores para cada campo
+-Se creo un menu de opciones para la seleccion de color
+-Se añadio una casilla en las opciones para elegir el porcentage de minas en el campo de juego
+-Se añade soporte para moverse mientras las teclas de direccion estan pulsadas
+-Se muestran imagenes en las zonas de minas al perder
+-Se arreglo el problema de acomodo en el tablero
+-Se añadieron comandos para reiniciar la partida o salir del juego y los creditos del juego
+-Se corrigio el problema al destapar un cero, ahora se destapa todo lo que esta alrededor
+-Se muestran mensages al ganar o perder
+
+v.1.0.2:	03/05/2012
+-Al ganar, se pone una bandera en todas las cosillas con mina
+-Cuando no se pulsa la casilla, se muestra un boton y al pulsarlo desaparece
+-Se a–ade la posibilidad de bloquear/desbloquear una casilla no visible (* - #)
+-Al bloquear una casilla, aparece una bandera en ella y esta es indestapable
+-Se ajusta el tamaño de los iconos para mejorar la interfaz
+-Otras mejoras
+
+v.2.0:	28/07/2012
+-Reesritura del codigo casi completa
+-Optimizacion de codigo, velocidad y uso de memoria
+-El juego en pantalla completa
+-La interfaz es independiente de la plataforma
+-La primera casilla destapada nunca sera una bomba
+-Agregado menu con opciones
+-Bloqueo y desbloqueo de casilla con la misma tecla (CLR/0)
+-No hay opciones para configurar el juego por el momento
+-Avisos al terminar el juego
+-Se puede jugar con teclas de accion o teclado numerico
+
+
+
+
+soon:	??/??/2012
+-Guardado automatico de partida
+-Edicion de interfaz del juego
+-Cambio de idioma
+-Musica al jugar
+-Splash screen
+
+

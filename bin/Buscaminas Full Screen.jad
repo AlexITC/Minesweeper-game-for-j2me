@@ -1,0 +1,8 @@
+MIDlet-1: Mine Sweeper, icon.png, Main
+MIDlet-Jar-Size: 18020
+MIDlet-Jar-URL: Mine Sweeper.jar
+MIDlet-Name: Mine Sweeper
+MIDlet-Vendor: vHA Inc.
+MIDlet-Version: 2.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

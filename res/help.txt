@@ -1,0 +1,26 @@
+--- Help ---
+
+Este juego se hizo en base en Buscaminas para Windows xp(R)
+
+- Reglas:
+	Un digito en una casilla indica el numero de bombas que todean a la casilla
+	Si se destapa una casilla que no es bomba y no tiene digito, indica que no hay bombas a su alrededor y utomaticamente las casillas que la rodean se descubriran
+
+- Objetivo:
+	Destapar todas las casillas del campo sin explotar ninguna mina.
+
+-Movimientos:
+	Arriva/2 -> Mover el cursor una casilla arriva, de estar en la primer fila, se posicionara en la ultima
+	Abajo/8 -> Mover el cursor una casilla abajo, de estar en la ultima fila, se posicionara en la primera
+	Izquierda/4 -> Mover el cursor una casilla hacia la izquierda, de estar en la primer columna, se posicionara en la ultima
+	Derecha/6 -> Mover el cursor una casilla hacia la derecha, de estar en la ultima columna, se posicionara en la primera
+	Centro/5 -> Destapar la casilla actual
+	CLR/0 -> Bloquear/Desbloquear una casilla (En estado de bloqueo es imposible descubrir la casilla)
+
+- Fin del juego:
+	Al destapar una casilla que contiene bomba, el juego acabara.
+	Al destapar todas las casillas sin encontrar bombas, el juego acabara.
+
+
+(C) vHA Inc.
+All Right Reserved
